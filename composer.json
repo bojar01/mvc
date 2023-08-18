@@ -1,0 +1,14 @@
+{
+    "name": "max/3wamvc",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bojar"
+        }
+    ],
+    "require": {}
+}
