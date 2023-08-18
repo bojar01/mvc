@@ -1,3 +1,7 @@
-## REMPLACE NAME FILE EXAMPLECONFIG.INI TO CONFIG.INI
+## Config/config.ini
 
-## CHARGE PSR4 AUTOLOADER WITH App\\ Path
+remplace name file exampleconfig.ini to config.ini
+
+## PSR4 module
+
+charge prs4 autoloader with "App\\": "app/"
